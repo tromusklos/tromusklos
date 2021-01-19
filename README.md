@@ -1,16 +1,15 @@
-### Hi there 👋
+#### Hi, I'm Lucas 👋
 
-<!--
-**tromusklos/tromusklos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I am currently working at GFT Brasil as a Test Analyst, QA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I am currently learning about .NET, Java & JavaScript.
+
+📫 How to contact me: (https://www.linkedin.com/in/lucasmendesdesouza/).
+
+💻 Technologies: C #, .NET, JavaScript and Java.
+
+⚡ Curiosity: I love watching series, anime and I really enjoyed my family.
+
+
+![](https://lh3.googleusercontent.com/proxy/fOduxGDH3RJiw8suYz56qLpO2Ou0gv_7PTiROg2WWa_HxrbP6J91_WfOxvH-x1FdiY7CEpt70xnRO_PmhYukNSpRsZ0RcRjPThf_5DkyPEoUJr53R2Jzeqj--1oQpwQkyA)
